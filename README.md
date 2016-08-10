@@ -1,2 +1,3 @@
 # damn-right
-This is my first repository
+
+Hello , I'm Mong. I will make a successful Startup Company : D
